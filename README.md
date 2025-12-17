@@ -7,9 +7,8 @@
 ---
 
 ## 📖 Extended Overview
-Q.F.S.T.D.S is not just a coding framework — it is a **sovereign system architecture** designed to unify technical mastery, ceremonial cycles, and mythic storytelling into a single operational engine. It formalizes protocols, generates artifacts, and archives every achievement as a **living checkpoint** in the sovereign codex.  
-
-This repository embodies a philosophy where **law, myth, ceremony, technology, finance, agriculture, and cosmic cycles** are harmonized into executable systems. Each module is both a practical tool and a ceremonial artifact, ensuring that technical progress is inscribed as part of a lasting legacy.
+Q.F.S.T.D.S.py orchestrates a sovereign data transmission ritual using Fibonacci logic, golden spirals, and quantum-inspired scheduling. It blends mathematical elegance with archival precision, simulating packet transmission through a ceremonial engine that encodes, schedules, and visualizes each data pulse as a mythic event.
+The script defines four core classes: DaVinciScheduler, which sequences data tiles using Fibonacci and golden ratio logic; DaVinciTransmitter, which encodes payloads with SHA-256 hashes and simulates sub-second transmission delays; CodexVault, which archives each transmission with metadata including Fibonacci and golden indices; and Visualizer, which renders scatter plots and spiral histograms to reveal the geometric resonance of the data flow. The main ritual simulates ten transmissions, each mapped to a golden spiral radius and archived with sovereign tags, culminating in visual diagnostics that inscribe the scheduler’s cosmic rhythm.
 
 ---
 
